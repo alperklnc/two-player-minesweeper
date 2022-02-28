@@ -1,8 +1,8 @@
 # two-player-minesweeper
 
-***********************************************
-Project made in collaboration with Alper Kılınç
-***********************************************
+*******************************************************
+Project made in collaboration with Kutay Eroğlu. (2020)
+*******************************************************
 
 This VHDL code demonstrates a 2 player version of minesweeper (video game) on a SPARTAN 3A/3AN FPGA board.
 There are two modes. 1st for placing mines 2nd for playing the game. At first mode a 3-bit input is taken from the user 
@@ -38,4 +38,3 @@ ENDGAME
 2 AREAS AND 1 MINE LEFT:
 IF USER SELECTS THE MINE AREA. HE/SHE LOSES. 
 AFTER CLEARING THE LAST AREA USER MUST TURN DOWN THE SELECTED AREA PIN. HIT BUTTON CAN BE ON/OFF.  “SUCCESS” IS DISPLAYED.
-
